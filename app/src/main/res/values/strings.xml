@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">ComposeMoviesApp</string>
+    <string name="home_h1">What do you want to watch?</string>
+    <string name="search">Search</string>
+    <string name="detail">Detail</string>
+    <string name="watch_list">Watch list</string>
+    <string name="no_match_found">We are sorry, we can not find the movie :(</string>
+    <string name="no_match_found_1">Find your movie by Type title, categories, years, etc </string>
+    <string name="empty_folder">There is no movie yet!</string>
+    <string name="empty_folder_1">Find your movie by Type title, categories, years, etc </string>
+    <string name="movie_poster_content_description">Movie poster</string>
+    <string name="nav_title_movies">Movies</string>
+    <string name="nav_title_favorites">Favorites</string>
+    <string name="nav_title_profile">Profile</string>
+    <string name="nav_title_details">Details</string>
+    <string name="search_bar_label">Search...</string>
+
+    <string name="ms_trending_title">Trending Movies</string>
+    <string name="ms_popular_title">Popular Movies</string>
+    <string name="ms_upcoming_title">Upcoming Movies</string>
+
+    <string name="loading_error_text">Something went wrong!</string>
+    <string name="loading_error_content_description">Loading error</string>
+
+
+    <string name="back_button_content_description">Go back</string>
+    <string name="user_score_user_text">User</string>
+    <string name="user_score_score_text">Score</string>
+    <string name="np_title">Now playing</string>
+    <string name="us_title">Upcoming</string>
+    <string name="trs_title">Top rated</string>
+    <string name="ps_title">Popular</string>
+    <string name="about_movie">About movie</string>
+    <string name="reviews">Reviews</string>
+    <string name="casts">Cast</string>
+    <string name="crews">Crews</string>
+    <string name="new_ones_first">New ones first</string>
+    <string name="first_the_old_ones">First the old ones</string>
+    <string name="descending_order">Descending order</string>
+    <string name="by_rating">By rating</string>
+    <string name="filter">Filter\n</string>
+
+</resources>
+
